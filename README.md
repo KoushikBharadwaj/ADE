@@ -34,8 +34,7 @@ This project was developed as part of a semester assignment to address parking c
 
 ## Circuit Diagram
 
-![Circuit Diagram](![Circuit-Diagram](https://github.com/user-attachments/assets/765a417a-c8d9-4c98-a7b8-68ea05fe83fb)
-)
+![Circuit-Diagram](https://github.com/user-attachments/assets/18398e60-c8a4-4972-a7f4-c9915bb4b49c)
 
 ## Operation
 
